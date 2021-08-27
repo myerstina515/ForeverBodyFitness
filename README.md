@@ -1,1 +1,1 @@
-# ForeverBodyFitness
+![image](./src/assets/coverPhoto.PNG)
